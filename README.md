@@ -61,21 +61,18 @@ AirportLuggageSystem/
 * **ZIP utilities (java.util.zip)**
 
 
-## 📄 Example Output
+## Role Ditribution: 
+1. **Create log files** :  Ibrahim
+2. **Write and read logs** : Raju
+3. **Simulate data exchange**: Ibrahim
+4. **Archive logs** : Nawshad
+5. **Move/Delete logs** : Raju
+6. **Search using Regex** :Ibrahim
+7. **Metadata management** : Nawshad
 
+## 📄 Output :>>
 ```
-=== Airport Luggage Smart System ===
-Generating log files...
 
-Reading log file: data/logs/vehicles/V101/2025-10-23.log
-2025-10-23T11:30:15Z | EQUIP=V101 | EVENT=Pickup | EVENT=Pickup|BAG=BG445612|GATE=A14
-
-Filtering 'Pickup' events with Regex...
-2025-10-23T11:30:15Z | EQUIP=V101 | EVENT=Pickup | EVENT=Pickup|BAG=BG445612|GATE=A14
-
-Archived logs to: data/archive/logs-2025-10-23.zip
-All tasks complete.
-===============================
 ```
 
 
